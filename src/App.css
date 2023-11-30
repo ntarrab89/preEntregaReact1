@@ -1,0 +1,26 @@
+.header{
+  background-color: blue;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__title{
+  color:white;
+}
+
+.navBar a{
+  list-style: none;
+  text-decoration: none;
+  color: white;
+}
+
+.chart{
+  width: 50px;
+}
+
+.header__link{
+  padding: 10px;
+  font-size: 2rem;
+}
